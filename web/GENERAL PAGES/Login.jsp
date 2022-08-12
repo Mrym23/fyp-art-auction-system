@@ -121,7 +121,7 @@
                 <div class="p-20 h-screen w-screen flex flex-col md:flex-row items-center justify-center bg-gradient-to-b from-gray-100 to-gray-200">
                     <div class="content text-3xl text-center md:text-left px-8 mb-4">
                         <h1 class="text-5xl text-gray-800 font-bold" style="font-family:didot">UNICUS</h1>
-                        <p>Color your world. Say yes to new adventure!</p>
+                        <p>Colour your world. Say yes to new adventure!</p>
                     </div>
                     <div class="container mx-auto flex flex-col items-center">
                         <form class="shadow-xl w-80 p-6 flex flex-col bg-white rounded-lg" action="<%=request.getContextPath()%>/bidderController" method="POST">
